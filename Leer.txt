@@ -1,0 +1,17 @@
+inicialmente tengo 1 repositorio por cada microservicio, pero en este repositorio esta todo el proyecto adjuntado en una sola carpeta.
+le dejo el link de de cada repositorio por si quiere ver el desarrollo a traves del tiempo de cada uno:
+
+BackEnd:
+https://github.com/Luciano-Grilli/MS-CURSO
+https://github.com/Luciano-Grilli/MS-USUARIOS
+https://github.com/Luciano-Grilli/MS-EXAMENES
+https://github.com/Luciano-Grilli/MS-RESPUESTA
+https://github.com/Luciano-Grilli/MS-EUREKA_SERVER
+https://github.com/Luciano-Grilli/MS-GATEWAY
+https://github.com/Luciano-Grilli/MS-ZUUL
+https://github.com/Luciano-Grilli/GENERICS-API
+https://github.com/Luciano-Grilli/GENERICS-EXAMENES
+https://github.com/Luciano-Grilli/GENERICS-ALUMNOS
+
+FrontEnd:
+https://github.com/Luciano-Grilli/FE-ANGULAR
